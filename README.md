@@ -4,13 +4,15 @@ Hi 👋 My name is Haroon Rashid (aka MCVD)
 Computer Scientist + Python and Computer Vision Engineer
 ---------------------------------------------------------
 
-I'm a 4th semester student of Bachelor's of Computer Science at the National University of Modern Languages, Islamabad. Moreover I have almost two years of self-gained experience in Python and computer vision.
+I'm a fourth-semester student pursuing a Bachelor of Computer Science degree at the National University of Modern Languages, Islamabad. I have two years of self-gained experience in Python and computer vision.
+
+20+ high-quality projects made, 150+ models trained, and 3 high-quality datasets annotated.
 
 *   🌍  I'm based in Islamabad, Pakistan
 *   ✉️  You can contact me at [haroonrashidcc3@gmail.com](mailto:haroonrashidcc3@gmail.com)
-*   🚀  I'm currently working on [advance computer vision projects](http://github.com/PythoneerSamurai/computer-vision-projects)
+*   🚀  I'm currently working on [advanced computer vision projects](http://github.com/PythoneerSamurai/computer-vision-projects)
 *   🤝  I'm open to collaborating on projects and research
-*   ⚡  Python is my favourite language 😊
+*   ⚡  Python is my favorite language 😊
 
 ### Skills
 
