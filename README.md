@@ -24,7 +24,7 @@ I'm a fourth-semester student pursuing a Bachelor of Computer Science degree at 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="36" height="36" alt="Keras" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="36" height="36" alt="Numpy" /></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" width="36" height="36" alt="OpenCV" /></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1989926.png" width="36" height="36" alt="OpenCV" /></a>
 <a href="https://supervision.roboflow.com/latest/" target="_blank" rel="noreferrer"><img src="https://supervision.roboflow.com/assets/supervision-lenny.png" width="36" height="36" alt="Supervision" /></a>
 <a href="https://docs.ultralytics.com/" target="_blank" rel="noreferrer"><img src="https://pluspng.com/img-png/yolo-png--1337.png" width="36" height="36" alt="YOLO" /></a>
 <a href="https://universe.roboflow.com/primaryws/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/53104118?s=280&v=4" width="36" height="36" alt="Roboflow Workspace" /></a>
