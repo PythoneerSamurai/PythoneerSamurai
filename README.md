@@ -28,6 +28,7 @@ I'm a fourth-semester student pursuing a Bachelor of Computer Science degree at 
 <a href="https://supervision.roboflow.com/latest/" target="_blank" rel="noreferrer"><img src="https://supervision.roboflow.com/assets/supervision-lenny.png" width="36" height="36" alt="Supervision" /></a>
 <a href="https://docs.ultralytics.com/" target="_blank" rel="noreferrer"><img src="https://pluspng.com/img-png/yolo-png--1337.png" width="36" height="36" alt="YOLO" /></a>
 <a href="https://universe.roboflow.com/primaryws/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/53104118?s=280&v=4" width="36" height="36" alt="Roboflow Workspace" /></a>
+<a href="https://pytorch3d.org/" target="_blank" rel="noreferrer"><img src="https://pytorch3d.org/img/pytorch3dfavicon.png" width="36" height="36" alt="PyTorch3D" /></a>
 </p>
 
 ### Socials
