@@ -10,7 +10,7 @@ I'm a fifth-semester student pursuing a Bachelor of Computer Science degree at t
 
 *   🌍  I'm based in Islamabad, Pakistan
 *   ✉️  You can contact me at [haroonrashidcc3@gmail.com](mailto:haroonrashidcc3@gmail.com)
-*   🚀  I'm currently working on [advanced computer vision projects](http://github.com/PythoneerSamurai/computer-vision-projects)
+*   🚀  I'm currently doing R&D on 3D Mesh Smoothing
 *   🤝  I'm open to collaborating on projects and research
 *   ⚡  Python is my favorite language 😊
 
