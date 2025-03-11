@@ -37,11 +37,10 @@ I'm a fifth-semester student pursuing a Bachelor of Computer Science degree at t
 
 ### Badges
 
+<b>Links</b>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://haroonrashid-portfolio.streamlit.app/)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/PythoneerSamurai"><img src="https://github-readme-stats.vercel.app/api?username=PythoneerSamurai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PythoneerSamurai's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/PythoneerSamurai/computer-vision-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PythoneerSamurai&repo=computer-vision-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PythoneerSamurai/pytorch-keras-model-implementations" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PythoneerSamurai&repo=pytorch-keras-model-implementations&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<p align="left">
