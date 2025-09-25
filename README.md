@@ -1,7 +1,7 @@
 Hi 👋 My name is Haroon Rashid (aka MCVD)
 ================================================================================================================================================
 
-Computer Scientist + A Student of Computer Vision
+Biography
 ---------------------------------------------------------
 
 Research Scientist in the field of 3D Computer Vision.
