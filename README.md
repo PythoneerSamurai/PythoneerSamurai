@@ -8,6 +8,8 @@ Research Scientist in the field of 3D Computer Vision.
 
 Computer Science Undergrad @ National University of Modern Languages, Islamabad, Pakistan.
 
+Always a student.
+
 ### Skills
 
 <p align="left">
