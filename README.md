@@ -4,7 +4,7 @@ Hi 👋 My name is Haroon Rashid (aka MCVD)
 Biography
 ---------------------------------------------------------
 
-Research Scientist in the field of 3D Computer Vision.
+Development and Engineering in 2D Computer Vision. Research in 3D Computer Vision.
 
 Computer Science Undergrad @ National University of Modern Languages, Islamabad, Pakistan.
 
