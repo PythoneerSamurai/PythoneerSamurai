@@ -7,9 +7,20 @@ Computer Science Undergrad @ National University of Modern Languages, Islamabad,
 Always a student.
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/PythoneerSamurai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
-<a href="https://www.linkedin.com/in/haroonrashidmcvd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>
-<a href="https://www.kaggle.com/pythonistasamurai/models" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" width="32" height="32" />
-<a href="https://universe.roboflow.com/primaryws/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png" /> <source media="(prefers-color-scheme: light)" srcset="https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png" /> <img src="https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png" width="32" height="32" /> </picture>
-<a href="https://orcid.org/0009-0002-1150-3829" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://images.icon-icons.com/2407/PNG/512/orcid_icon_146132.png" /> <source media="(prefers-color-scheme: dark)" srcset="https://images.icon-icons.com/2407/PNG/512/orcid_icon_146132.png" /> <img src="https://images.icon-icons.com/2407/PNG/512/orcid_icon_146132.png" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/PythoneerSamurai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/haroonrashidmcvd" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/pythonistasamurai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" title="Kaggle" />
+  </a>
+  <a href="https://universe.roboflow.com/primaryws/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" title="Roboflow" />
+  </a>
+  <a href="https://orcid.org/0009-0002-1150-3829" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" title="ORCID" />
+  </a>
+</p>
