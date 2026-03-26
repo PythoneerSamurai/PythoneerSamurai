@@ -2,7 +2,7 @@ Development and Engineering in both 2D and 3D Computer Vision. Research in 3D Co
 
 Currently building software that aims to democratize 3D Computer Vision by streamlining dataset preparation, contribution, and acquisition workflows.
 
-Computer Science Undergrad @ National University of Modern Languages, Islamabad, Pakistan.
+Computer Science Senior @ National University of Modern Languages, Islamabad, Pakistan.
 
 Always a student.
 
