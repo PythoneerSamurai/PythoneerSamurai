@@ -1,5 +1,3 @@
-الحمدللہ رب العالمین
-
 Development and Engineering in both 2D and 3D Computer Vision. Research in 3D Computer Vision.
 
 Currently building software that aims to democratize 3D Computer Vision by streamlining dataset preparation, contribution, and acquisition workflows.
